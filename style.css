@@ -1,0 +1,84 @@
+img {
+  width: 290px;
+  height: 290px
+}
+
+body {
+  background-color: black;
+  color: #BCBCB1;;
+  text-align: center
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 3px;
+}
+
+
+#profile_picture {
+  width: 420px;
+  height: 420px
+}
+#text1 {
+  text-align: justify;
+  font-size: 18px;
+  color: #428224;
+  font-family: 'Pacifico', cursive;
+}
+
+#recipe {
+  color: #BCBCB1;
+}
+ul {
+    text-align: center;
+    color: #7389AE;
+}
+
+h1 {
+  color: #A02500;
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+}
+
+p {
+  color: black;
+}
+
+h2 {
+  color: #428224;
+  font-size: 30px;  l
+  letter-spacing: 5px;
+}
+
+a {
+  color: black;
+}
+
+h3 {
+  color: #428224;
+  font-size: 16px;
+  font-family: 'Pacifico', cursive;
+}
+
+
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.profile_text {
+  padding: 10px;
+  background-color: #DBDBD6;
+  border-top: 4px solid #759927;
+  border-bottom: 4px solid #759927;
+  border-left: 4px solid #759927;
+  border-right: 4px solid #759927;
+  box-shadow: 1px 1px 3px white;
+}
+
+.recipe_text {
+  padding: 2px;
+  vertical-align: text-top;
+  width: 292px;
+}
